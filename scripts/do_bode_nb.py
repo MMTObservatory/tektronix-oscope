@@ -21,7 +21,6 @@ def main(path, address, how_many, name):
         -n, --how-many INTEGER  Number of frequency response data points
         --help                  Show this message and exit.
 
-
     """
 
     loader = template.Loader(Path(path))
